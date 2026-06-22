@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [3612-process-string-with-special-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Matrix
 |  |
 | ------- |
