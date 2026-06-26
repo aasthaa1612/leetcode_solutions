@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0213-house-robber-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0268-missing-number) |
+| [0806-number-of-lines-to-write-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0806-number-of-lines-to-write-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
