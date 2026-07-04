@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 ## String
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0213-house-robber-ii) |
+| [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 ## Greedy
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
