@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0443-string-compression) |
 | [0806-number-of-lines-to-write-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 ## Matrix
