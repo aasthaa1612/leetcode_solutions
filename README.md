@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0766-toeplitz-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
