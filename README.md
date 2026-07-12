@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0066-plus-one) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0231-power-of-two) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0867-transpose-matrix) |
