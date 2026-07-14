@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0443-string-compression) |
 | [0806-number-of-lines-to-write-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
 |  |
 | ------- |
