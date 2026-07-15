@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
