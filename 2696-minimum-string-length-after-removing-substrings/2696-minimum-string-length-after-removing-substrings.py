@@ -13,4 +13,4 @@ class Solution(object):
             else:
                 stack.append(ch)
 
-        return len(stack)        
+        return len(stack)      
