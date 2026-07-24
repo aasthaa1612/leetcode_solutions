@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
@@ -248,8 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
