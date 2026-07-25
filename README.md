@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0622-design-circular-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0766-toeplitz-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
