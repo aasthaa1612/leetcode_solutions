@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0231-power-of-two) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
