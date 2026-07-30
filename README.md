@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
