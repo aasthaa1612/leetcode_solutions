@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0766-toeplitz-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
