@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
@@ -293,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
