@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0202-happy-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0227-basic-calculator-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0268-missing-number) |
