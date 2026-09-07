@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Greedy
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0819-most-common-word) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
 | ------- |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -324,10 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Topological Sort
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Combinatorics
 |  |
@@ -341,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
