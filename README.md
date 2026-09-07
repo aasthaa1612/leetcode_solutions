@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1670-design-front-middle-back-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0805-split-array-with-same-average) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Greedy
 |  |
 | ------- |
@@ -310,4 +313,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasthaa1612/leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Tree
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Depth-First Search
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Graph Theory
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Topological Sort
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Combinatorics
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## DP on Trees
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
