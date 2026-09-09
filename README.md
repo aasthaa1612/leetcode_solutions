@@ -331,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -361,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0561-array-partition) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Union-Find
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
