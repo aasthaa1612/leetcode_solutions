@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0766-toeplitz-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0860-lemonade-change) |
 ## Linked List
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
