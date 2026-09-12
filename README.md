@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0766-toeplitz-matrix](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0860-lemonade-change) |
 ## Linked List
