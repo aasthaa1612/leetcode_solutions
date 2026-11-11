@@ -336,10 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aasthaa1612/leetcode_solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
@@ -387,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aasthaa1612/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/aasthaa1612/leetcode_solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
